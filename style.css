@@ -39,5 +39,7 @@ bottom: 0;
 width: 100vw;
 height: 80vh;
 margin: var(--ss);
+margin-bottom: 0;
 padding: var(--ss);
+padding-bottom: 0;
 }
