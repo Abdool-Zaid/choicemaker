@@ -34,7 +34,6 @@ h1{
 margin-top: var(--sm);
 }
 img{
-position: fixed;
 bottom: 0;
 width: 100vw;
 height: 80vh;
